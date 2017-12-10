@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Converter", "WindowsFormsApp1\Converter.csproj", "{3DFCCEEC-5D99-45FA-8A52-5276E26FB412}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DFCCEEC-5D99-45FA-8A52-5276E26FB412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DFCCEEC-5D99-45FA-8A52-5276E26FB412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DFCCEEC-5D99-45FA-8A52-5276E26FB412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DFCCEEC-5D99-45FA-8A52-5276E26FB412}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D2CB702-3AF6-4FB3-A43A-3214F7F7027A}
+	EndGlobalSection
+EndGlobal
